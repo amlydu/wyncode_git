@@ -1,1 +1,1 @@
-puts 'bugfix'
+puts "Hello WYncode"
